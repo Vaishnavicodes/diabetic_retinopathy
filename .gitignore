@@ -1,0 +1,11 @@
+venv/
+data/raw/
+*.jpeg
+*.zip
+*.csv
+__pycache__/
+*.pyc
+.env
+mlruns/
+*.pth
+*.pt
